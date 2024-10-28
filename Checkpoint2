@@ -1,0 +1,37 @@
+#!/usr/bin/env python
+# coding: utf-8
+
+# # {Project Title}📝
+# 
+# ![Banner](./assets/banner.jpeg)
+
+# ## Topic
+# *What insights and interesting information are you able to extract at this stage?*
+# 📝 <!-- Answer Below -->
+Some interesting information I learned when looking at the Census Data is that since the start of the 21st century, more conservative states have had there population increased like Texas and Florida. 
+# *What are the distributions of my variables?*
+# 📝 <!-- Answer Below -->
+There are many different variables like population, race, gender, gdp per capita, median income and etc. 
+# *Are there any correlations between my variables?*
+# 📝 <!-- Answer Below -->
+There are not a lot of correlations between variables because each variable is describing something different about the population.
+# *What issues can you see in your data at this point?*
+# 📝 <!-- Answer Below -->
+Not really any issues that I can see due to the data being from the government.
+# *Are there any outliers or anomalies? are they relevant to your analysis? or should they be removed?*
+# 📝 <!-- Answer Below -->
+No Outliers
+# *Are there any missing values? how are you going to deal with them? Are there any duplicate values? how are you going to deal with them?*
+# 📝 <!-- Answer Below -->
+I have not seen any missing values but will research if I see any.
+# *Are there any data types that need to be changed?*
+# 📝 <!-- Answer Below -->
+There are not any data types that I would change.
+# ## Data Visualization
+# *4 Visualizations*
+# 📝 <!-- Answer Below -->
+https://drive.google.com/drive/folders/1BhvFtJsSAHkapCCd2QTzEjWDpQXYJOzG
+
+
+# ⚠️ Make sure you run this cell at the end of your notebook before every submission!
+get_ipython().system('jupyter nbconvert --to python python-exercises.ipynb')
