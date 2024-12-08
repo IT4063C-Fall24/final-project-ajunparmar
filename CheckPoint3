@@ -1,0 +1,3 @@
+#I didn't really understand what the question was asking however I am comparing two datsets that are from 2015 and 2017 with the same locations and all that I would like to create different types of graphs to compare how different the population is between different demographics adn trying to figure out how it changed and why it changed.
+#And I created a example line graph for how the population of men chnaged from 2015 to 2017 and I used the first two rows of each precint to document this and I put it in the repository under the name Figure_1.
+!jupyter nbconvert --to python source.ipynb
